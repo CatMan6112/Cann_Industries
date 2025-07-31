@@ -1,0 +1,20 @@
+Cann Industries, founded in 2038 by [Data Expunged] Cann, is a megacorporation that specializes in robotics and energy production.
+
+Although top of it's line 70 years ago, it's relative technological level compared to Axiom Corporation or other High-Level megacorporations, has fallen drastically.
+
+Cann Industries' most highly produced model, the X65, ran on a miniturized fission reactor. Although optimized, it still functioned on the same concept as Cold War era fission technology.
+
+In 2059, Cann Industries as a whole, split from Earth and it's governing nations. Simmilar to other Megacorporations of it's time, Cann Industries had the ability to build space stations and rudimentary space craft.
+
+Using this ability, Cann Industries constructed a large space station, capable of housing up to 30 people at a time. Equipped with hydrogen-combustion based thrusters and a fission reactor, The CSISS departed from earth's orbit amd set course to orbit Sol IV (or Mars) in 2062.
+Though most of Cann Industries' actions were not legal, Cann Industries, now operating as a Subisdary, Cann Space Industes, were now free from Earth's governing law. But "free from law" does not include being free from military radar.
+
+On July 6, 2063, At 0245 an inbound man-made weaponized object with a fusion based nuclear warhead was identified to be on course to intercept the CSISS at 0328, just weeks after a threatening call from a UN representative. Evacuatiom procedures were enacted.
+However, 4 crew members remained on the ship, and worked to get the weapons system locked onto the incoming object. By 0300, the weapons system was fully locked onto the object and awaited confirmation. 
+
+3 minutes before the object was set to intercept the CSISS, the object was detonated. Just 1440 meters away from the CSISS. This caused extreme burn damage across the object facing side of the CSISS, and one vacuum-window to shatter, causing a depressurization of the affected sector.
+The Cann Space Industries Space Station Damage Managment System, or CSISSDMS, was activated. The CSISSDMS single handedly managed broken systems and hull breaches to ensure safe operating for the system.
+
+For CSISS Logs, See [Here](CSISS_Logs.txt).
+
+For UN Conversational Logs, See [Here](UN_Convo.txt).

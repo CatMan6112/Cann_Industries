@@ -1,0 +1,29 @@
+Jul 6 02:44:58 csissdms:  [INFO] System Booted
+Jul 6 02:45:00 csissdms:  [ALERT] Inbound weaponized object, Collision Course; ETA=03:28:00
+Jul 6 02:45:01 csissdms:  [INFO] Damage reaction mode: Proactive
+Jul 6 02:45:06 csissdms:  [INFO] Bulkhead covers: PRIMED; repair queue: INITIALIZED; escape pods: STANDBY
+Jul 6 02:46:58 csissdms:  [INFO] Evacuation procedures: ACTIVATED; escape pods fully occupied=13/15
+Jul 6 03:00:07 csisswsys: [INFO] Weapons lock-on sequence: TARGET LOCKED; awaiting dual-key authorization
+Jul 6 03:00:28 csisswsys: [WARN] Wep_Sys Dual-key override received (KEY-NjExMg, Key-MzI0MTY)
+Jul 6 03:00:48 csisswsys: [INFO] Art_Can1: Fired
+Jul 6 03:00:49 csisswsys: [INFO] Art_Can2: Fired
+Jul 6 03:00:50 csisswsys: [INFO] Art_Can1: Fired
+Jul 6 03:00:51 csissdms:  [WARN] Exeding Margin-Of-Error additional DeltaV 
+Jul 6 03:00:51 csissdms:  [INFO] Secondary-Hyd_Thrusters: ENGAGED
+Jul 6 03:25:03 csisswsys: [INFO] Art_Can1: Fired (x1403)
+Jul 6 03:25:03 csisswsys: [INFO] Art_Can2: Fired (x1402)
+Jul 6 03:25:05 csisswsys: [INFO] Target detonation confirmed;
+Jul 6 03:25:05 csissdms:  [CRITICAL] Hull breach: window #4 comprimised; sector 12-4B depressurization detected
+Jul 6 03:25:05 csissdms:  [INFO] Damage reaction mode: Reactive  
+Jul 6 03:25:17 csissdms:  [WARN] Bulkhead isolation seals: ENGAGED on sector 12-4B
+Jul 6 03:25:19 csissdms:  [CRITICAL] Severe external temperature readings; Therm 38: 897C; Therm 37: 901C; Therm 40: 0C; Therm 39: 904C;
+Jul 6 03:25:19 csissdms:  [WARN] Therm 40, sub-normal readings, isolating output.
+Jul 6 03:25:21 csissdms:  [CRITICAL] Severe heat damage, sectors 12-4B, 12-3B, 12-2B
+Jul 6 03:25:21 csissdms:  [INFO] Damage repair build queue standby.
+Jul 6 03:26:07 csissdms:  [INFO] Evacuation procedures: DEACTIVATED; Escape pod OSD updated, Code Yellow.
+Jul 6 03:26:10 csissdms:  [INFO] Fatal damage adverted, build queue standby. Awaiting shutdown.
+Jul 6 03:26:58 csissdms:  [INFO] Shutdown command recieved.
+Jul 6 03:27:01 csissdms:  [INFO] Processes Halted.
+Jul 6 03:27:09 csissdms:  [INFO] Log Saved, System will now shutdown!
+
+
