@@ -12,6 +12,7 @@ const fileFolder = 'texts';
 
 const imageList = [
   "freebird-album.png",
+  "lore.png",
 ];
 const imageFolder = 'images';
 
