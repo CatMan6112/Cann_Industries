@@ -3,7 +3,6 @@ const fileList = [
     "Emmisary.txt",
     "Sol.txt",
     "axiom_corporation.txt",
-    "mark-down_test.txt",
     "sol_defense_corps.txt",
     "CSISS.txt",
     "UN_Convo.txt",
