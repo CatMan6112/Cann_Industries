@@ -1,12 +1,15 @@
 const fileList = [
-    "cann_industries.txt",
+    "CSISS.txt",
+    "CSISS_Logs.txt",
     "Emmisary.txt",
     "Sol.txt",
-    "axiom_corporation.txt",
-    "sol_defense_corps.txt",
-    "CSISS.txt",
     "UN_Convo.txt",
+    "United_Nations.txt",
+    "axiom_corporation.txt",
+    "cann_industries.txt",
+    "sol_defense_corps.txt",
 ];
+
 const fileFolder = 'texts';
 
 const imageList = [

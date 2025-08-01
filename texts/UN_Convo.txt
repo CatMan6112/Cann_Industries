@@ -1,14 +1,14 @@
 [START TRANSCRIPTION]
 DATE: May 29, 2063 - 16:02-ACT
-STATUS: 4 minutes into transmission with [REDACTED], UN representative.
+STATUS: 4 minutes into transmission with [NAME_REDACTED], UN representative.
 
 Speaker 1: Look, you’re in clear violation of Article VII, Megacorporate Conduct in Space, and Article III, Prohibition of Unauthorized Space-Based Armaments. All I ask is that you return to the UN, as you are also violating the 2052 Constellation Act.
 
 Speaker 2: Why should I? You wouldn’t shoot down an orbiting station with 30 civilians on board.
 
-Speaker 1: That’s the thing, though—they aren’t civilians. Technically, you are legally an invader of UN-owned space. Until you return to the UN, they—and you—aren’t our citizens.
+Speaker 1: That’s the thing, though. They aren’t civilians. Technically, you are legally an invader of UN-occupied space. Until you return to the UN, they—and you—aren’t citizens.
 
-Speaker 2: We’re no longer subject to your jurisdiction. [REDACTED]. Every person aboard this station is sick of the “enshittification” of what used to be a beautiful planet and govern—
+Speaker 2: We’re no longer subject to your jurisdiction, [NAME_REDACTED]. Every person aboard this station is sick of the “enshittification” of what used to be a beautiful planet and goverme—
 
 Speaker 1: None of that matters. Not your beliefs or anyone's aboard your station. You are in direct violation of numerous laws, and since you are currently orbiting Mars with weaponry, you’re also in violation of the Geneva Orbital Accord. You either surrender your station or we will forcibly dismantle it. We protect our citizens first.
 
@@ -18,15 +18,17 @@ Speaker 1: We will intervene. Don’t make us. I really don’t want to enact Se
 
 Speaker 2: What’s that? Authorize government corruption, ridiculously high taxes, and overspending?
 
-Speaker 1: No—authorizing forceful dismantlement of illegal orbital threats.
+Speaker 1: No. Authorizing forceful dismantlement of illegal orbital threats.
 
 [Pause; 19.48 seconds]
 
-Speaker 1: If your station remains armed and unauthorized, we will take appropriate actions to neutralize the threat.
+Speaker 1: If your station remains active and unauthorized, we will take appropriate actions to neutralize the threat.
 
 Speaker 2: Try.
 
 [TRANSMISSION TERMINATED BY SPEAKER 2]
+
+[Pause; 2.56 seconds]
 
 Speaker 2: End transcript, please.
 
