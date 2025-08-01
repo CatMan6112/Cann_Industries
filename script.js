@@ -2,13 +2,16 @@ const fileList = [
     "CSISS.txt",
     "CSISS_Logs.txt",
     "Emmisary.txt",
+    "Model_CSI-A2.txt",
+    "Model_CSI-C1.txt",
     "Sol.txt",
     "UN_Convo.txt",
     "United_Nations.txt",
     "axiom_corporation.txt",
     "cann_industries.txt",
     "sol_defense_corps.txt",
-];
+]
+;
 
 const fileFolder = 'texts';
 

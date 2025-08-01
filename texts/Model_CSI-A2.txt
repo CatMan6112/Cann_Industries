@@ -1,0 +1,5 @@
+Developed and deployed by Cann Space Industries (subsidiary of Cann Industries), the A2 model is provided complementary to all SDC vessels. The A2 model is equipped for a multitude of service-related tasks, such as Cargo Management, Engineering Assist, and anything else you can think of.
+
+Although the A2 model is not equipped for weapons handling, it does have a rudimentary level of pretrained weapons information for dire situations if necessary.
+
+Powered by a 10 kWh rechargeable lithium-ion battery, the A2 model is capable of running for upwards of 18 hours without a recharge. The A2 model is preprogrammed with over 30 million responses, eliminating the need for power-hungry AI models altogether—simply give it a directive and it will follow.
